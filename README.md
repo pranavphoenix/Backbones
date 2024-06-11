@@ -1,4 +1,8 @@
 # Clash of Backbones
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/which-backbone-to-use-a-resource-efficient/breast-cancer-histology-image-classification)](https://paperswithcode.com/sota/breast-cancer-histology-image-classification?p=which-backbone-to-use-a-resource-efficient) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/which-backbone-to-use-a-resource-efficient/image-classification-on-plantvillage)](https://paperswithcode.com/sota/image-classification-on-plantvillage?p=which-backbone-to-use-a-resource-efficient)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/which-backbone-to-use-a-resource-efficient/image-classification-on-eurosat)](https://paperswithcode.com/sota/image-classification-on-eurosat?p=which-backbone-to-use-a-resource-efficient)
+
 ## Which Pytorch Backbone to Use for Low Data Fine-tuning? 
 ### Resource-efficient Image Classification
 
