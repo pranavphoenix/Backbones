@@ -50,6 +50,7 @@
 | BreakHis 100×        | 🏥 Medical Images (Histopathology)      | 1,458             | 632              | 2         |
 | BreakHis 200×        | 🏥 Medical Images (Histopathology)      | 1,411             | 611              | 2         |
 | BreakHis 400×        | 🏥 Medical Images (Histopathology)      | 1,276             | 553              | 2         |
+| RSNA Pneumonia Detection | 🏥 Medical Images (Radiology)       | 24,181            | 6046             | 2         |
 
 
 ### Code to run benchmarking for each dataset 
